@@ -1,6 +1,6 @@
 # Hiren Bhatt
 
-**Senior Product Manager | AI-Led Product Strategy · 0→1 Product Execution**
+**Senior Product Manager \| AI-Led Product Strategy · 0→1 Product Execution**
 
 📧 [hirenbhatt1641@gmail.com](mailto:hirenbhatt1641@gmail.com)  📞 [+919622642561](tel:+919622642561)  🔗 [LinkedIn](https://linkedin.com/in/hiren-bhatt)  📍 Mumbai, IN
 
