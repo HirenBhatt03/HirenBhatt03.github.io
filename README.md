@@ -22,7 +22,7 @@ A Former developer and systems architect turned Technical Product Manager, bring
 
 ### Strategic Product Consultant
 
-*(2024 - Present) | AI, Health-Tech - SaaS Innovation & Independent Projects*
+*(2024 - Present) \| AI, Health-Tech - SaaS Innovation & Independent Projects*
 
 Led a high-leverage year, building AI-driven products, launching health-tech prototypes, and consulting across eCommerce and SaaS. Combined product strategy, technical depth, and rapid experimentation to ship MVPs, drive growth, and support early-stage startups.
 
@@ -34,7 +34,7 @@ Led a high-leverage year, building AI-driven products, launching health-tech pro
 
 ### Peepultree - Senior Product Manager
 
-*(2022 - 2024) | D2C Brand for Curated Handcrafted & Heritage Products*
+*(2022 - 2024) \| D2C Brand for Curated Handcrafted & Heritage Products*
 
 Orchestrated product roadmap across eCommerce and content layers for a global handcrafted goods marketplace.
 
@@ -45,7 +45,7 @@ Orchestrated product roadmap across eCommerce and content layers for a global ha
 
 ### Rebel Foods (Faasos) - Technical Product Manager
 
-*(2021 - 2022) | Global Cloud Kitchen Leader*
+*(2021 - 2022) \| Global Cloud Kitchen Leader*
 
 Owned the global order distribution and menu sync platform powering 85% of company revenue.
 - Reduced order rejections from **0.6% to 0.3%**, in under 3 months, protecting ₹26L+ in monthly revenue.
@@ -56,7 +56,7 @@ Owned the global order distribution and menu sync platform powering 85% of compa
 
 ### Cactus Communication (Kolabtree) - Product Manager
 
-*(2019 - 2021) | B2B Marketplace for Freelance Scientific Talent*
+*(2019 - 2021) \| B2B Marketplace for Freelance Scientific Talent*
 
 Sole PM in a 30-person startup; reported directly to the CEO.
 - Increased revenue by 30% via optimized freelancer-client matchmaking.
@@ -66,7 +66,7 @@ Sole PM in a 30-person startup; reported directly to the CEO.
 
 ### BookMyShow - Developer → DevOps Engineer → Associate Product Manager
 
-*(2015 - 2019) | India’s Largest Ticketing Platform*
+*(2015 - 2019) \| India’s Largest Ticketing Platform*
 
 Progressed from systems engineer to product manager across India’s largest ticketing platform.
 - Boosted offer-centric user conversion by 5%, optimized payment flows.
@@ -80,7 +80,7 @@ Progressed from systems engineer to product manager across India’s largest tic
 
 ### Resagit - UI/UX Designer
 
-*(2014 - 2015) | SaaS Platform*
+*(2014 - 2015) \| SaaS Platform*
 
 - Designed B2B recharge UI platform with responsive prototypes.
 
